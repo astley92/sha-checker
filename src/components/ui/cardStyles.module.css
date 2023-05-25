@@ -1,0 +1,14 @@
+.card {
+  box-sizing: border-box;
+  border-radius: 10px;
+  padding: 1rem;
+  overflow: auto;
+}
+
+.purple-shadow {
+  box-shadow: 0 0 20px 0 var(--zepto-purple);
+}
+
+.green-shadow {
+  box-shadow: 0 0 20px 0 var(--zepto-green);
+}

@@ -1,0 +1,22 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  background-color: var(--main-bg-colour);
+  background-color: var(--main-bg-colour);
+  padding: 30px;
+  height: 100vh;
+}
+
+.input-section {
+  background-color: var(--zepto-green);
+  width: 70%;
+  max-width: 720px;
+}
+
+.output-section {
+  background-color: var(--zepto-purple);
+  width: 70%;
+  max-width: 720px;
+}
